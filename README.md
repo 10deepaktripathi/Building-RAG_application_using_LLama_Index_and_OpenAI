@@ -13,3 +13,4 @@ This project demonstrate how to use llama index with openAI to create RAG applic
 
 # Question 3
 ![Chart](charts/ques3.png)
+
